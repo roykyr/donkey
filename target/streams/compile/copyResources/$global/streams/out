@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/roy/ws/playapp/donkey/conf/application.conf~,/home/roy/ws/playapp/donkey/target/scala-2.11/classes/application.conf~)[0m
+[0m[[0mdebug[0m] [0m	(/home/roy/ws/playapp/donkey/conf/logback.xml,/home/roy/ws/playapp/donkey/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/roy/ws/playapp/donkey/conf/application.conf,/home/roy/ws/playapp/donkey/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/roy/ws/playapp/donkey/conf/routes,/home/roy/ws/playapp/donkey/target/scala-2.11/classes/routes)[0m
